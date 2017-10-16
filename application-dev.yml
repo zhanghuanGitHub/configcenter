@@ -1,0 +1,4 @@
+eureka:
+  instance:
+    #hostname: registry
+    prefer-ip-address: true
