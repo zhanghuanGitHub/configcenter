@@ -10,6 +10,12 @@ security:
   user:
     name: zh
     password: zh123
+    oauth2:
+      client:
+        client-id: acme
+        client-secret: acmesecret
+        scope: read,write
+        auto-approve-scopes: '.*'
 
 ---
 server:
