@@ -6,7 +6,10 @@ management:
 ---
 security:
   basic:
-    enabled: false
+    enabled: true
+  user:
+    name: zh
+    password: zh123
 
 ---
 server:
