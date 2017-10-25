@@ -5,11 +5,11 @@ management:
 
 ---
 security:
-  basic:
-    enabled: true
-  user:
-    name: zh
-    password: zh123
+#  basic:
+#    enabled: true
+#  user:
+#    name: zh
+#    password: zh123
     oauth2:
       client:
         client-id: acme
