@@ -8,7 +8,7 @@ security:
   basic:
     enabled: true
   user:
-    name: zh
+    name: user
     password: zh123
     oauth2:
       client:
